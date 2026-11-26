@@ -1,0 +1,20 @@
+/* License is at fonts/UFL.txt */
+
+@font-face {
+    font-family: "Ubuntu";
+    src: url('./fonts/Ubuntu-Regular.ttf') format('truetype');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Ubuntu";
+    src: url('./fonts/Ubuntu-Bold.ttf') format('truetype');
+    font-style: normal;
+    font-weight: bold;
+}
+@font-face {
+    font-family: 'Ubuntu Mono';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../../fonts/Ubuntu-Mono.ttf') format('truetype');
+}
